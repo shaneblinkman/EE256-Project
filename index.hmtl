@@ -1,0 +1,19 @@
+<!-- filename: index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PCB Design of Desktop Pomodoro Timer</title>
+  <style>
+    body { margin: 0; }
+    .container { height: 100vh; }
+    iframe { width: 100%; height: 100%; border: 0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <iframe src="./EE256-Report.pdf" title="PCB Design of Desktop Pomodoro Timer"></iframe>
+  </div>
+</body>
+</html>
